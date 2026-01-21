@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "author": "shenck <shenck1807@joyowo.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "react": "19.3.0-canary-d2908752-20260119",
+    "react-dom": "19.3.0-canary-d2908752-20260119",
+    "umi": "^4.6.23"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.8",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}
